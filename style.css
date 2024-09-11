@@ -1,0 +1,13 @@
+h1{
+    font-size: 30px;
+    width:40%;
+}
+img{
+    width:50%
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.NameHighlight{
+    color:rgb(209, 113, 35);
+}
