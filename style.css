@@ -1,6 +1,6 @@
 h1{
     font-size: 30px;
-    width:40%;
+    
 }
 img{
     width:50%
@@ -10,4 +10,13 @@ body{
 }
 .NameHighlight{
     color:rgb(209, 113, 35);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin:3%;
+    padding:2%;
+}
+.half-width img{
+    width:100%;
 }
