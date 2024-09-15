@@ -20,10 +20,16 @@ body{
 }
 .half-width img{
     width:100%;
+
 }
 .background{
     background-image:url("images/top-banner.png");
     background-repeat: no-repeat;
+}
+.background2{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
 section{
     height:500px;
