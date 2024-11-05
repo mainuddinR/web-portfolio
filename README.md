@@ -1,4 +1,3 @@
-https://mainuddinr.github.io/web-portfolio/
+https://mainuddinr.github.io/practice-website/
 
-It' is only Structure , 
-learning begin time 🫣
+It' is only Structure
